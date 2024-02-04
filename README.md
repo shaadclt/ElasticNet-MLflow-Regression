@@ -19,7 +19,7 @@ The dataset used for training the model is `wine-quality.csv`, which contains va
 
 
 - `wine-quality.csv`: Dataset file.
-- `elasticnet_regression.py`: Python script for training the ElasticNet regression model.
+- `train.py`: Python script for training the ElasticNet regression model.
 - `README.md`: This file.
 
 ## Usage
